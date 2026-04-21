@@ -1,7 +1,8 @@
 package com.tnsif.finalkeyworddemo;
 
 class UPIAPP{
-	final int max=10000;
+	//final 
+	int max=10000;
 	
 	void showlimit() {
 		System.out.println("amount "+max);
