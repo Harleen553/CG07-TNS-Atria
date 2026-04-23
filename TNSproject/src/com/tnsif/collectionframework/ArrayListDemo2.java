@@ -31,6 +31,7 @@ public class ArrayListDemo2 {
 		System.out.println(f);
 		System.out.println(f.isEmpty()); // output :: true or false
 		System.out.println(f);
+		System.out.println(f.get(2));
 	}
 
 }

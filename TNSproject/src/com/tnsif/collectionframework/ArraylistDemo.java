@@ -6,12 +6,12 @@ import java.util.List;
 public class ArraylistDemo {
 
 	public static void main(String args[]) {
-		List<Integer> l = new ArrayList<>();
-		l.add(2);
+		List<Double> l = new ArrayList<>();
+		//l.add(2);
 		//l.add("hqf");
-		l.add(12);
+		l.add(12.56);
 		//l.add('c');
-		
+		l.add(45.00);
 		System.out.println(l);
 	}
 }
